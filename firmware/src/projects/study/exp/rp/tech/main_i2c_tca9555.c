@@ -4,7 +4,6 @@
 #include "km0/device/debugUart.h"
 #include "km0/device/digitalIo.h"
 #include "km0/device/system.h"
-#include "pico/binary_info.h"
 #include "pico/stdlib.h"
 #include <stdio.h>
 
