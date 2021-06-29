@@ -1,0 +1,16 @@
+{
+  "projectId": "LLiJq6YU",
+  "keyboardName": "lily58",
+  "parameterConfigurations": [
+    {
+      "targetVariationNames": ["all"],
+      "systemParameterKeys": [
+        "emitKeyStroke",
+        "emitRealtimeEvents",
+        "keyHoldIndicatorLed",
+        "heartbeatLed",
+        "masterSide"
+      ]
+    }
+  ]
+}

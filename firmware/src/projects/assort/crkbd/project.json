@@ -1,0 +1,20 @@
+{
+  "projectId": "GCX88nns",
+  "keyboardName": "crkbd",
+  "parameterConfigurations": [
+    {
+      "targetVariationNames": ["all"],
+      "systemParameterKeys": [
+        "emitKeyStroke",
+        "emitRealtimeEvents",
+        "keyHoldIndicatorLed",
+        "heartbeatLed",
+        "masterSide",
+        "glowActive",
+        "glowColor",
+        "glowBrightness",
+        "glowPattern"
+      ]
+    }
+  ]
+}

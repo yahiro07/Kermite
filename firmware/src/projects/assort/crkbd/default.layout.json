@@ -1,0 +1,352 @@
+{
+  "formatRevision": "LA01",
+  "setup": {
+    "placementUnit": "KP 19",
+    "placementAnchor": "center",
+    "keySizeUnit": "KP 19",
+    "keyIdMode": "auto"
+  },
+  "keyEntities": [
+    {
+      "keyId": "key29",
+      "x": 1.5,
+      "y": -2.5,
+      "keyIndex": 29,
+      "groupIndex": 0
+    },
+    {
+      "keyId": "key35",
+      "x": 1.5,
+      "y": -1.5,
+      "keyIndex": 35,
+      "groupIndex": 0
+    },
+    {
+      "keyId": "key41",
+      "x": 1.5,
+      "y": -0.5,
+      "keyIndex": 41,
+      "groupIndex": 0
+    },
+    {
+      "keyId": "key28",
+      "x": 2.5,
+      "y": -2.6,
+      "keyIndex": 28,
+      "groupIndex": 0
+    },
+    {
+      "keyId": "key34",
+      "x": 2.5,
+      "y": -1.6,
+      "keyIndex": 34,
+      "groupIndex": 0
+    },
+    {
+      "keyId": "key40",
+      "x": 2.5,
+      "y": -0.6,
+      "keyIndex": 40,
+      "groupIndex": 0
+    },
+    {
+      "keyId": "key27",
+      "x": 3.5,
+      "y": -2.7,
+      "keyIndex": 27,
+      "groupIndex": 0
+    },
+    {
+      "keyId": "key33",
+      "x": 3.5,
+      "y": -1.7,
+      "keyIndex": 33,
+      "groupIndex": 0
+    },
+    {
+      "keyId": "key39",
+      "x": 3.5,
+      "y": -0.7,
+      "keyIndex": 39,
+      "groupIndex": 0
+    },
+    {
+      "keyId": "key26",
+      "x": 4.5,
+      "y": -2.6,
+      "keyIndex": 26,
+      "groupIndex": 0
+    },
+    {
+      "keyId": "key32",
+      "x": 4.5,
+      "y": -1.6,
+      "keyIndex": 32,
+      "groupIndex": 0
+    },
+    {
+      "keyId": "key38",
+      "x": 4.5,
+      "y": -0.6,
+      "keyIndex": 38,
+      "groupIndex": 0
+    },
+    {
+      "keyId": "key25",
+      "x": 5.5,
+      "y": -2.375,
+      "keyIndex": 25,
+      "groupIndex": 0
+    },
+    {
+      "keyId": "key31",
+      "x": 5.5,
+      "y": -1.375,
+      "keyIndex": 31,
+      "groupIndex": 0
+    },
+    {
+      "keyId": "key37",
+      "x": 5.5,
+      "y": -0.375,
+      "keyIndex": 37,
+      "groupIndex": 0
+    },
+    {
+      "keyId": "key24",
+      "x": 6.5,
+      "y": -2.375,
+      "keyIndex": 24,
+      "groupIndex": 0
+    },
+    {
+      "keyId": "key30",
+      "x": 6.5,
+      "y": -1.375,
+      "keyIndex": 30,
+      "groupIndex": 0
+    },
+    {
+      "keyId": "key36",
+      "x": 6.5,
+      "y": -0.375,
+      "keyIndex": 36,
+      "groupIndex": 0
+    },
+    {
+      "keyId": "key47",
+      "x": 0.7,
+      "y": 0.8,
+      "angle": -25,
+      "shape": "std 1 1.5",
+      "keyIndex": 47,
+      "groupIndex": 0
+    },
+    {
+      "keyId": "key46",
+      "x": 1.85,
+      "y": 0.6,
+      "angle": -15,
+      "keyIndex": 46,
+      "groupIndex": 0
+    },
+    {
+      "keyId": "key45",
+      "x": 3,
+      "y": 0.45,
+      "keyIndex": 45,
+      "groupIndex": 0
+    },
+    {
+      "keyId": "key5",
+      "mirrorOf": "key29",
+      "keyIndex": 5
+    },
+    {
+      "keyId": "key11",
+      "mirrorOf": "key35",
+      "keyIndex": 11
+    },
+    {
+      "keyId": "key17",
+      "mirrorOf": "key41",
+      "keyIndex": 17
+    },
+    {
+      "keyId": "key4",
+      "mirrorOf": "key28",
+      "keyIndex": 4
+    },
+    {
+      "keyId": "key10",
+      "mirrorOf": "key34",
+      "keyIndex": 10
+    },
+    {
+      "keyId": "key16",
+      "mirrorOf": "key40",
+      "keyIndex": 16
+    },
+    {
+      "keyId": "key3",
+      "mirrorOf": "key27",
+      "keyIndex": 3
+    },
+    {
+      "keyId": "key9",
+      "mirrorOf": "key33",
+      "keyIndex": 9
+    },
+    {
+      "keyId": "key15",
+      "mirrorOf": "key39",
+      "keyIndex": 15
+    },
+    {
+      "keyId": "key2",
+      "mirrorOf": "key26",
+      "keyIndex": 2
+    },
+    {
+      "keyId": "key8",
+      "mirrorOf": "key32",
+      "keyIndex": 8
+    },
+    {
+      "keyId": "key14",
+      "mirrorOf": "key38",
+      "keyIndex": 14
+    },
+    {
+      "keyId": "key1",
+      "mirrorOf": "key25",
+      "keyIndex": 1
+    },
+    {
+      "keyId": "key7",
+      "mirrorOf": "key31",
+      "keyIndex": 7
+    },
+    {
+      "keyId": "key13",
+      "mirrorOf": "key37",
+      "keyIndex": 13
+    },
+    {
+      "keyId": "key0",
+      "mirrorOf": "key24",
+      "keyIndex": 0
+    },
+    {
+      "keyId": "key6",
+      "mirrorOf": "key30",
+      "keyIndex": 6
+    },
+    {
+      "keyId": "key12",
+      "mirrorOf": "key36",
+      "keyIndex": 12
+    },
+    {
+      "keyId": "key23",
+      "mirrorOf": "key47",
+      "keyIndex": 23
+    },
+    {
+      "keyId": "key22",
+      "mirrorOf": "key46",
+      "keyIndex": 22
+    },
+    {
+      "keyId": "key21",
+      "mirrorOf": "key45",
+      "keyIndex": 21
+    }
+  ],
+  "outlineShapes": [
+    {
+      "points": [
+        {
+          "x": -2.5,
+          "y": -53
+        },
+        {
+          "x": 18.5,
+          "y": -53
+        },
+        {
+          "x": 18.5,
+          "y": -58
+        },
+        {
+          "x": 37.5,
+          "y": -58
+        },
+        {
+          "x": 37.5,
+          "y": -60
+        },
+        {
+          "x": 56.5,
+          "y": -60
+        },
+        {
+          "x": 56.5,
+          "y": -62
+        },
+        {
+          "x": 76.5,
+          "y": -62
+        },
+        {
+          "x": 76.5,
+          "y": -60
+        },
+        {
+          "x": 95.5,
+          "y": -60
+        },
+        {
+          "x": 95.5,
+          "y": -55.5
+        },
+        {
+          "x": 134,
+          "y": -55.5
+        },
+        {
+          "x": 134,
+          "y": 3.5
+        },
+        {
+          "x": 81,
+          "y": 3.5
+        },
+        {
+          "x": 68,
+          "y": 19
+        },
+        {
+          "x": 29,
+          "y": 25
+        },
+        {
+          "x": 10,
+          "y": 34.5
+        },
+        {
+          "x": -2.5,
+          "y": 7
+        }
+      ],
+      "groupIndex": 0
+    }
+  ],
+  "transformationGroups": [
+    {
+      "x": 20,
+      "y": 0,
+      "mirror": true
+    }
+  ]
+}
